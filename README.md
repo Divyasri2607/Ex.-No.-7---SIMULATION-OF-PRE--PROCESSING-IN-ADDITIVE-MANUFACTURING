@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e51376a0-fae2-44ec-b0a8-05cc95a000ca" />
 
-### Name:
-### Register Number:
+### Name:Divya Sri V
+### Register Number:212224230070
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
